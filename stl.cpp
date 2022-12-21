@@ -14,6 +14,7 @@
 #include <algorithm>
 #include <ctime>
 #include <random>
+#include "words.txt"
 using namespace std;
 
 void read_words(string text) {
