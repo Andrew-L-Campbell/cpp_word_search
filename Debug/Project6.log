@@ -1,0 +1,6 @@
+﻿  stl.cpp
+C:\coding\cpp\Project6\stl.cpp(33,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\coding\cpp\Project6\stl.cpp(57,20): warning C4018: '<=': signed/unsigned mismatch
+C:\coding\cpp\Project6\stl.cpp(68,23): warning C4018: '<': signed/unsigned mismatch
+C:\coding\cpp\Project6\stl.cpp(74,23): warning C4018: '<': signed/unsigned mismatch
+  Project6.vcxproj -> C:\coding\cpp\Project6\Debug\Project6.exe
